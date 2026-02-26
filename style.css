@@ -1,0 +1,6 @@
+.container-fluid {
+    <div class="d-flex justify-content-between align-items-center w-100">
+        <a class="navbar-brand fw-bold">Udemy</a>
+        <div>Right Side</div>
+    </div>
+}
